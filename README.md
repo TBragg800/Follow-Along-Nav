@@ -4,7 +4,7 @@
 [Follow-Along-Nav](https://github.com/TBragg800/Follow-Along-Nav)
 
 ##  Deployed:
-[Follow-Along-Nav]()
+[Follow-Along-Nav](https://tbragg800.github.io/Follow-Along-Nav/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Follow-Along-Nav)
@@ -19,14 +19,13 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to create a highlighted navigation element that follows along with the mouse cursor upon hovering over nav elements. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Follow-Along-Nav]()
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Follow-Along-Nav](https://tbragg800.github.io/Follow-Along-Nav/)
 
 ## License
   MIT License
